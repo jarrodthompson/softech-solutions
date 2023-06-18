@@ -1,0 +1,19 @@
+{
+  "name": "softechsolutions",
+  "version": "2.0.0",
+  "description": "eCommerce application built with the MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarrodthompson/softech-solutions.git"
+  },
+  "author": "Jarrod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarrodthompson/softech-solutions/issues"
+  },
+  "homepage": "https://github.com/jarrodthompson/softech-solutions#readme"
+}
